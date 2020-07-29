@@ -29,3 +29,5 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
 </web-app>
+
+<!-- I needed the welcome file list-->
